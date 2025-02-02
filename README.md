@@ -23,3 +23,11 @@ Ensure the following Python libraries are installed before running the scripts:
 
 ```sh
 pip install numpy opencv-python keyboard scipy leap
+
+
+🚀 How to Run the Project
+1️⃣ Start Leap Motion Service
+Before running the scripts, ensure the Leap Motion Controller is connected and the Leap Service is running.
+
+2️⃣ Run arm_angle.py (Hand Position Tracker)
+This script tracks the right hand’s position and orientation and transmits data via UDP.
