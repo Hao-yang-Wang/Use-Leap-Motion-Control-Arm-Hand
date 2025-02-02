@@ -1,0 +1,42 @@
+name: leap_motion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2024.9.24=haa95532_0
+  - libffi=3.4.4=hd77b12b_1
+  - openssl=3.0.15=h827c3e9_0
+  - pip=24.2=py38haa95532_0
+  - python=3.8.20=h8205438_0
+  - setuptools=75.1.0=py38haa95532_0
+  - sqlite=3.45.3=h2bbff1b_0
+  - vc=14.40=h2eaa2aa_1
+  - vs2015_runtime=14.40.33807=h98bb1dd_1
+  - wheel=0.44.0=py38haa95532_0
+  - pip:
+      - build==1.2.2.post1
+      - cffi==1.17.1
+      - colorama==0.4.6
+      - contourpy==1.1.1
+      - cycler==0.12.1
+      - dynamixel-sdk==3.7.31
+      - fonttools==4.55.0
+      - importlib-metadata==8.5.0
+      - importlib-resources==6.4.5
+      - keyboard==0.13.5
+      - kiwisolver==1.4.7
+      - matplotlib==3.7.5
+      - numpy==1.24.4
+      - opencv-python==4.10.0.84
+      - packaging==24.1
+      - pillow==10.4.0
+      - pycparser==2.22
+      - pyparsing==3.1.4
+      - pyproject-hooks==1.2.0
+      - pyserial==3.5
+      - python-dateutil==2.9.0.post0
+      - scipy==1.10.1
+      - six==1.16.0
+      - tomli==2.0.2
+      - zipp==3.20.2
+prefix: C:\Users\Haoyang\.conda\envs\leap_motion
