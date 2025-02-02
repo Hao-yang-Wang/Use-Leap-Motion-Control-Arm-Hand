@@ -69,11 +69,11 @@ This file contains the necessary dependencies to run the project, including:
 - `dynamixel-sdk` (for motor control)
 
 ## Running the System
-
-1. Start `arm_control.py` to begin listening for position data.
-2. Run `hand_angle.py` to track hand movements and send joint angles.
-3. Run `arm_angle.py` to capture and send hand position and orientation.
-4. The robotic arm will follow the received data to mimic hand movements.
+1. Open three terminals
+2. Run `arm_control.py` to begin listening for position data.
+3. Run `hand_angle.py` to track hand movements and send joint angles.
+4. Run `arm_angle.py` to capture and send hand position and orientation.
+5. The robotic arm will follow the received data to mimic hand movements.
 
 ## License
 
