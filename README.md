@@ -7,10 +7,19 @@ This project involves controlling a robotic arm using real-time hand motion data
 
 ## Installation
 
-Ensure you have Python installed, preferably version 3.7 or later. Install the required dependencies using:
+Option 1: Using pip
+If you are using a Python virtual environment, install dependencies using:
 
 ```sh
 pip install -r requirements.txt
+```
+
+Option 2: Using Conda (Recommended)
+To create an isolated Conda environment for this project, run:
+
+```sh
+conda env create -f leap_motion_env.yml
+conda activate leap_motion_env
 ```
 
 ## Script Descriptions
