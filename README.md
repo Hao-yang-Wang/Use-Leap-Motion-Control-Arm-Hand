@@ -7,14 +7,14 @@ This project involves controlling a robotic arm using real-time hand motion data
 
 ## Installation
 
-Option 1: Using pip
+### Option 1: Using pip
 If you are using a Python virtual environment, install dependencies using:
 
 ```sh
 pip install -r requirements.txt
 ```
 
-Option 2: Using Conda (Recommended)
+### Option 2: Using Conda (Recommended)
 To create an isolated Conda environment for this project, run:
 
 ```sh
